@@ -35,7 +35,7 @@ Este sistema permite o cadastro e correção de gabaritos de alunos, gerenciamen
 
 ```sh
 # Clone o repositório
-$ git clone https://github.com/Kauapietro031nl/SA-Senai.git
+$ git clone https://github.com/arthurjoede/SA-SENAI
 
 # Acesse o diretório do projeto
 $ cd SA-Senai
